@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Suhas Shetti</h1>
+  <h1>Hi 👋, I'm Suhas Krishna Shetti</h1>
   <h3>🚀 Software Developer | DSA Enthusiast | Full-Stack Developer</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Backend+Development;Full+Stack+Development;Problem+Solving;Building+Impactful+Projects" alt="Typing SVG" />
 </div>
@@ -15,9 +15,9 @@
 ## 👨‍💻 About Me
 
 - 🌱 Currently improving **Data Structures & Algorithms** and building impactful projects.
-- 💻 Solved **225+** problems on LeetCode.
+- 💻 Solved **232+** problems on LeetCode (90 Easy | 136 Medium | 6 Hard).
 - ⚡ Interested in **Backend Development**, **Full Stack Development**, and **Problem Solving**.
-- 📫 Reach out to me: **[suhasshetti0002@gmail.com](mailto:suhasshetti0002@gmail.com)**
+- 📫 Reach out to me: **[suhasshetti0002@gmail.com](mailto:suhasshetti0002@gmail.com)** | **[suhasks.cs24@rvce.edu.in](mailto:suhasks.cs24@rvce.edu.in)**
 
 ---
 
@@ -26,6 +26,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/suhas-shetti-7b43a7327/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/suhasshetti02/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:suhasshetti0002@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -66,12 +69,13 @@
 ## 🧠 Problem Solving & DSA
 
 <div align="left">
-  <!-- Note: Ensure the username "suhasshetti02" matches your LeetCode handle. If not, replace it in the image URL below. -->
-  <img align="right" src="https://leetcard.jacoblin.cool/suhasshetti02?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="350"/>
+  <a href="https://leetcode.com/u/suhasshetti02/">
+    <img align="right" src="https://leetcard.jacoblin.cool/suhasshetti02?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="350"/>
+  </a>
   
   <p>I have a strong foundation in Data Structures and Algorithms with a continuous focus on improving my problem-solving efficiency.</p>
   <ul>
-    <li>🏆 <strong>Solved 225+ LeetCode problems</strong></li>
+    <li>🏆 <strong>Solved 232+ LeetCode problems</strong></li>
     <li>💡 <strong>Strong in:</strong>
       <ul>
         <li>Arrays & Strings</li>
@@ -89,12 +93,12 @@
 
 ## 🚀 Featured Projects
 
-| 📝 Project Name | 🛠 Tech Stack | 💡 Highlights |
+| 📝 Project Name | 🛠 Primary Tech | 💡 Repository Link |
 | :--- | :--- | :--- |
-| **[Insert Project 1 Title Here](#)** | `React` `Node.js` `MongoDB` | Authentication, responsive UI, deployed web app. *[Briefly describe the problem it solves]* |
-| **[Insert Project 2 Title Here](#)** | `Java` `Spring Boot` `MySQL` | CRUD operations, backend REST APIs, role-based access control. *[Briefly describe the problem it solves]* |
-
-*(Note: Replace `#` with the actual links to your project repositories or live demos).*
+| **Transparent NGO Donation System** | `JavaScript` | [View Repository](https://github.com/suhasshetti02/Transparent-NGO-Donation-Management-System) |
+| **Student Database Management** | `TypeScript` | [View Repository](https://github.com/suhasshetti02/Student-Database-Management-System) |
+| **Anonymous Teacher Feedback** | `JavaScript` | [View Repository](https://github.com/suhasshetti02/Anonymous-Teacher-feedback-system) |
+| **Expense Tracker** | `Full Stack` | [View Repository](https://github.com/suhasshetti02/Expense-Tracker) |
 
 ---
 
