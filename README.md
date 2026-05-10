@@ -102,19 +102,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhasshetti02&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasshetti02&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=suhasshetti02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&v=1" ... />
-</div>
-<br>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=suhasshetti02&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
