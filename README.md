@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd-year Computer Science Engineering student at R.V. College of Engineering, Bengaluru
+- 4th🎓 -year Computer Science Engineering student at R.V. College of Engineering, Bengaluru
 - 🛠️ Building across **distributed systems, cryptography, GenAI/RAG, and applied ML** — not just web CRUD apps
 - 🧩 Solved **300+ Data Structures & Algorithms problems** across LeetCode, GeeksforGeeks, and CodeStudio
 - 📫 Reach me at **[suhasks.cs24@rvce.edu.in](mailto:suhasks.cs24@rvce.edu.in)**
