@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <img src="./assets/profile-banner.svg" width="100%" alt="Suhas Krishna Shetti — Software Engineering, Backend Systems, Applied AI" />
@@ -21,7 +22,8 @@
 
 ---
 
-## 01 / ABOUT
+## 01 — ABOUT ME
+<sub>WHO I AM · WHAT I BUILD · WHAT I EXPLORE</sub>
 
 I'm **Suhas Krishna Shetti**, a Computer Science and Engineering student at **R.V. College of Engineering, Bengaluru**.
 
@@ -33,7 +35,8 @@ I enjoy building software beyond conventional CRUD applications — from backend
 
 ---
 
-## 02 / TECHNOLOGY
+## 02 — TECHNICAL TOOLKIT
+<sub>LANGUAGES · FRAMEWORKS · INFRASTRUCTURE</sub>
 
 <div align="center">
 
@@ -73,7 +76,8 @@ I enjoy building software beyond conventional CRUD applications — from backend
 
 ---
 
-## 03 / SELECTED PROJECTS
+## 03 — SELECTED PROJECTS
+<sub>SYSTEMS BUILT · IDEAS IMPLEMENTED · PROBLEMS SOLVED</sub>
 
 A selection of systems and prototypes I've been building across backend engineering, distributed computing, security, and applied AI.
 
@@ -208,7 +212,8 @@ A compiler-oriented prototype exploring structural similarity between programs w
 
 ---
 
-## 04 / ENGINEERING APPROACH
+## 04 — ENGINEERING APPROACH
+<sub>HOW I DESIGN · BUILD · INTEGRATE · DELIVER</sub>
 
 I focus on understanding how software components fit together — from data structures and protocols to service boundaries, retrieval pipelines, testing, and deployment.
 
@@ -223,7 +228,8 @@ I focus on understanding how software components fit together — from data stru
 
 ---
 
-## 05 / DATA STRUCTURES & ALGORITHMS
+## 05 — DATA STRUCTURES & ALGORITHMS
+<sub>PROBLEM SOLVING · ALGORITHMIC THINKING · CORE CS</sub>
 
 <div align="center">
 
@@ -241,7 +247,8 @@ I practise problem solving to strengthen algorithmic thinking and core computer-
 
 ---
 
-## 06 / GITHUB CONTRIBUTIONS
+## 06 — GITHUB CONTRIBUTIONS
+<sub>OPEN-SOURCE WORK · CONSISTENCY · CONTRIBUTION HISTORY</sub>
 
 <div align="center">
 
@@ -273,7 +280,8 @@ I practise problem solving to strengthen algorithmic thinking and core computer-
 
 ---
 
-## 07 / LET'S CONNECT
+## 07 — LET'S CONNECT
+<sub>COLLABORATION · IDEAS · ENGINEERING OPPORTUNITIES</sub>
 
 <div align="center">
 
