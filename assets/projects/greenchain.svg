@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">GreenChain</title>
+  <desc id="desc">Food redistribution workflows with ML-assisted insights</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080E1B"/>
+      <stop offset="0.58" stop-color="#101D35"/>
+      <stop offset="1" stop-color="#0B1224"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9BE36A"/>
+      <stop offset="1" stop-color="#28C6A0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#A9C5E8" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="172" r="235" fill="#9BE36A" opacity=".055"/>
+  <circle cx="1000" cy="180" r="155" fill="none" stroke="#9BE36A" stroke-opacity=".18" stroke-width="1.5"/>
+  <path d="M0 300 C260 250 420 365 700 300 S1030 240 1200 280" fill="none" stroke="#28C6A0" stroke-opacity=".18" stroke-width="2"/>
+  <rect x="62" y="56" width="5" height="46" rx="2.5" fill="url(#glow)"/>
+  <text x="84" y="78" fill="#9BE36A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">FULL-STACK  /  APPLIED AI</text>
+  <text x="80" y="166" fill="#F4F7FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="750" letter-spacing="-1.3">GreenChain</text>
+  <text x="82" y="210" fill="#B9C7DA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Food redistribution workflows with ML-assisted insights</text>
+  <rect x="82" y="246" width="170" height="3" rx="1.5" fill="url(#glow)"/>
+  <text x="82" y="278" fill="#8FA3BD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">ENGINEERING / BUILDING / LEARNING</text>
+  <g transform="translate(790 60)">
+    <circle cx="195" cy="135" r="122" fill="none" stroke="#9BE36A" stroke-opacity=".22" stroke-width="2" stroke-dasharray="5 10"/>
+    <path d="M75 159 C34 91 91 20 186 26 C282 33 345 102 320 183 C300 251 213 284 141 244" fill="none" stroke="#9BE36A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M128 206 C126 133 190 73 270 80 C253 157 211 215 128 206 Z" fill="#244C35" stroke="#9BE36A" stroke-width="3"/>
+    <path d="M128 206 C171 169 218 127 270 80" fill="none" stroke="#C7F7A5" stroke-width="3" stroke-linecap="round"/>
+    <path d="M75 159 l-2 -29 M75 159 l27 -1 M141 244 l-27 -1 M141 244 l-3 -27" stroke="#9BE36A" stroke-width="4" stroke-linecap="round"/>
+    <g fill="#9BE36A"><circle cx="75" cy="159" r="8"/><circle cx="320" cy="183" r="8"/><circle cx="186" cy="26" r="8"/></g>
+    <g stroke="#9BE36A" stroke-opacity=".4" stroke-width="2"><path d="M20 68 h45 M42 90 h24 M334 66 h38 M350 88 h22"/></g>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#9CB6D6" stroke-opacity=".2"/>
+</svg>
