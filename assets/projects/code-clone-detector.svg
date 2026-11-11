@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Cross-Language Code Clone Detector</title>
+  <desc id="desc">LLVM IR • Control-flow graphs • Graph-based similarity</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080E1B"/>
+      <stop offset="0.58" stop-color="#101D35"/>
+      <stop offset="1" stop-color="#0B1224"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B79CFF"/>
+      <stop offset="1" stop-color="#77D8F5"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#A9C5E8" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="172" r="235" fill="#B79CFF" opacity=".055"/>
+  <circle cx="1000" cy="180" r="155" fill="none" stroke="#B79CFF" stroke-opacity=".18" stroke-width="1.5"/>
+  <path d="M0 300 C260 250 420 365 700 300 S1030 240 1200 280" fill="none" stroke="#77D8F5" stroke-opacity=".18" stroke-width="2"/>
+  <rect x="62" y="56" width="5" height="46" rx="2.5" fill="url(#glow)"/>
+  <text x="84" y="78" fill="#B79CFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">COMPILER DESIGN  /  PROGRAM ANALYSIS</text>
+  <text x="80" y="166" fill="#F4F7FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="39" font-weight="750" letter-spacing="-1.3">Cross-Language Code Clone Detector</text>
+  <text x="82" y="210" fill="#B9C7DA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">LLVM IR • Control-flow graphs • Graph-based similarity</text>
+  <rect x="82" y="246" width="170" height="3" rx="1.5" fill="url(#glow)"/>
+  <text x="82" y="278" fill="#8FA3BD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">ENGINEERING / BUILDING / LEARNING</text>
+  <g transform="translate(760 68)">
+    <path d="M130 35 H70 Q48 35 48 57 V213 Q48 235 70 235 H130 M330 35 H390 Q412 35 412 57 V213 Q412 235 390 235 H330" fill="none" stroke="#B79CFF" stroke-width="7" stroke-linecap="round"/>
+    <path d="M178 82 L145 135 L178 188 M282 82 L315 135 L282 188" fill="none" stroke="#77D8F5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g stroke="#B79CFF" stroke-width="2.5" fill="#1E2142">
+      <path d="M200 56 L250 56 L280 105 L250 154 L200 154 L170 105 Z"/>
+      <path d="M200 154 L250 154 L280 203 L250 252 L200 252 L170 203 Z" opacity=".7"/>
+      <path d="M225 56 V252 M170 105 L280 203 M280 105 L170 203" stroke-opacity=".45" fill="none"/>
+    </g>
+    <g fill="#B79CFF"><circle cx="225" cy="56" r="7"/><circle cx="280" cy="105" r="7"/><circle cx="250" cy="154" r="7"/><circle cx="170" cy="105" r="7"/><circle cx="225" cy="252" r="7"/></g>
+    <path d="M0 135 h42 M418 135 h42" stroke="#77D8F5" stroke-width="3" stroke-dasharray="5 7"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#9CB6D6" stroke-opacity=".2"/>
+</svg>
