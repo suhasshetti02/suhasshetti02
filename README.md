@@ -26,12 +26,12 @@ I enjoy working at the intersection of **distributed systems, cryptography, GenA
 
 ### 🗄️ [Distributed-pqc-storage](https://github.com/suhasshetti02/distributed-pqc-storage)
 *Post-Quantum Fault-Tolerant Storage Fabric*
-A 5-node distributed storage system with a custom TCP-based P2P transport. Achieves 40% fault tolerance (2-of-5 node failures) via Reed-Solomon erasure coding. Implements ML-KEM-768 post-quantum peer handshakes, AES-GCM encryption, and an autonomous self-healing audit engine.
+A Go distributed-storage prototype with TCP peer communication, Reed-Solomon shard encoding, AES-GCM encryption, SQLite metadata, and a Kyber-768 / ML-KEM-style key-establishment exchange. The default local launcher currently starts three local file servers; the KEM exchange does not by itself authenticate peer identity.
 `Go` `Docker` `TCP/IP` `Reed-Solomon` `Cryptography`
 
 ### 🎬 [Distributed-media-pipeline](https://github.com/suhasshetti02/distributed-media-pipeline)
 *Event-Driven Async Video Processing*
-A Kubernetes-based microservices pipeline decoupling CPU-bound video-to-audio conversion via RabbitMQ. Features durable message delivery with manual ACK/NACK, large-file streaming through GridFS, and stateless JWT authentication.
+A microservices prototype that queues video-to-audio jobs through RabbitMQ, stores media in MongoDB GridFS, and uses JWT-based gateway authentication. The current conversion path reads file contents into memory, and converter NACK handling does not request requeue.
 `Python` `RabbitMQ` `Docker` `Kubernetes` `MongoDB GridFS`
 
 ### 📄 [ContextDrop](https://github.com/suhasshetti02/ContextDrop)
@@ -44,7 +44,7 @@ A Q&A platform using structure-aware chunking and pgvector-based similarity sear
 <br>
 Connects food donors with NGOs through donation, claim, pickup, and verification workflows. A separate Python/FastAPI ML service handles spoilage-risk prediction alongside a Node.js REST API and Gemini-based food-safety guidance.
 
-🔗 [Repository](https://github.com/suhasshetti02)
+🔗 [Repository](https://github.com/suhasshetti02/greenchain-platform)
 </details>
 
 <details>
@@ -60,7 +60,7 @@ A context-aware access-control prototype combining PBKDF2-SHA256, device fingerp
 <br>
 Crop-recommendation via Random Forest and a custom 5-block CNN for plant-disease classification across 38 leaf-image classes, with Gemini-based agricultural guidance layered on top.
 
-🔗 [Repository](https://github.com/suhasshetti02)
+🔗 [Repository](https://github.com/suhasshetti02/Plant-Pulse)
 </details>
 
 <details>
@@ -68,7 +68,7 @@ Crop-recommendation via Random Forest and a custom 5-block CNN for plant-disease
 <br>
 A program-analysis prototype exploring semantic code-clone detection across C, C++, Rust, and Fortran using LLVM IR concepts and graph-based representations, with Weisfeiler-Lehman graph hashing.
 
-🔗 [Repository](https://github.com/suhasshetti02/cross-language-semantic-code-clone-detector)
+🔗 [Repository](https://github.com/suhasshetti02/cross-lang-code-detector)
 </details>
 
 ---
